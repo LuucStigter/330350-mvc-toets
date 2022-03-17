@@ -7,6 +7,7 @@
     <title>Home</title>
 </head>
 <body>
-    <a href="http://www.mvc-toets.org/countries/index">countries</a>
+    <h1>klik op "landenoverzicht" voor het landenoverzicht</h1>
+    <a href="http://www.mvc-toets.org/countries/index">landenoverzicht</a>
 </body>
 </html>
